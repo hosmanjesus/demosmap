@@ -1,4 +1,4 @@
-var am4geodata_mapChuq = {
+var am4geodata_MapPolyChuq= {
     "type": "FeatureCollection",
     "features": [{
             "type": "Feature",
